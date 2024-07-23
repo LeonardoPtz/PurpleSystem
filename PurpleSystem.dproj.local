@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/18 18:41:01.000.265,=C:\Users\Jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/18 18:42:14.000.715,C:\Users\Jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Aula\Purple System\uPrincipal.pas</Transaction>
+    <Transaction>2024/07/18 18:42:14.000.715,C:\Users\Jaque\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Aula\Purple System\uPrincipal.dfm</Transaction>
+    <Transaction>2024/07/18 18:42:25.000.986,C:\Users\Jaque\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Aula\Purple System\PurpleSystem.dproj</Transaction>
+    <Transaction>2024/07/18 18:44:53.000.244,=C:\Aula\Purple System\Unit2.pas</Transaction>
+    <Transaction>2024/07/18 18:45:06.000.647,C:\Aula\Purple System\Unit2.dfm=C:\Aula\Purple System\uUsuarios.dfm</Transaction>
+    <Transaction>2024/07/18 18:45:06.000.647,C:\Aula\Purple System\Unit2.pas=C:\Aula\Purple System\uUsuarios.pas</Transaction>
+    <Transaction>2024/07/18 19:20:31.000.562,=C:\Aula\Purple System\uDM.pas</Transaction>
+    <Transaction>2024/07/18 19:21:13.000.337,=C:\Aula\Purple System\uFuncoesLog.pas</Transaction>
+    <Transaction>2024/07/18 21:02:02.000.221,=C:\Aula\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/18 21:02:20.000.826,C:\Aula\Purple System\Unit1.dfm=C:\Aula\Purple System\uCadastroUsuarios.dfm</Transaction>
+    <Transaction>2024/07/18 21:02:20.000.826,C:\Aula\Purple System\Unit1.pas=C:\Aula\Purple System\uCadastroUsuarios.pas</Transaction>
+    <Transaction>2024/07/19 21:54:58.000.128,C:\Projetos Delphi XE8\Purple System\uCadastroProdutos.pas=C:\Projetos Delphi XE8\Purple System\uCadastroUsuarios.pas</Transaction>
+    <Transaction>2024/07/19 21:54:58.000.128,C:\Projetos Delphi XE8\Purple System\uCadastroProdutos.dfm=C:\Projetos Delphi XE8\Purple System\uCadastroUsuarios.dfm</Transaction>
+    <Transaction>2024/07/19 21:58:16.000.825,=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/19 21:58:30.000.888,C:\Projetos Delphi XE8\Purple System\uCadastroClientes.pas=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/19 21:58:30.000.888,C:\Projetos Delphi XE8\Purple System\uCadastroClientes.dfm=C:\Projetos Delphi XE8\Purple System\Unit1.dfm</Transaction>
+    <Transaction>2024/07/22 20:56:38.060,=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/22 21:01:02.834,C:\Projetos Delphi XE8\Purple System\uCadastroUsuarios.dfm=C:\Projetos Delphi XE8\Purple System\Unit1.dfm</Transaction>
+    <Transaction>2024/07/22 21:01:02.834,C:\Projetos Delphi XE8\Purple System\uCadastroUsuarios.pas=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/22 21:35:38.855,=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/22 21:41:25.464,C:\Projetos Delphi XE8\Purple System\uNovoUsuario.pas=C:\Projetos Delphi XE8\Purple System\Unit1.pas</Transaction>
+    <Transaction>2024/07/22 21:41:25.464,C:\Projetos Delphi XE8\Purple System\uNovoUsuario.dfm=C:\Projetos Delphi XE8\Purple System\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
